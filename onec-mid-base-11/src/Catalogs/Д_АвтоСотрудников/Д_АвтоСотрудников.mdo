@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="db4feb79-aafe-4538-9f3b-61cb59f5cbb6">
+  <producedTypes>
+    <objectType typeId="7ba6d3f7-1960-4bc0-9a98-d4d32270f53a" valueTypeId="b64c8d68-6e82-4ce3-b72b-4f0dbfaabc21"/>
+    <refType typeId="69a05d9a-493d-4747-9a35-eb03b71723b5" valueTypeId="8e713625-b06c-41bd-a411-93d0a6f7aa3c"/>
+    <selectionType typeId="98bb55a7-5e13-47e3-864f-bf345ca59009" valueTypeId="e5daa4e3-e0a2-401c-9d4f-95bcce661000"/>
+    <listType typeId="b5870364-410e-44e9-9da9-1347c11bcb71" valueTypeId="c68a54ac-4d8b-4ca1-9236-2374489193e5"/>
+    <managerType typeId="0d092ed5-595b-4a58-994b-9ce464333d99" valueTypeId="b93d9290-a348-4272-8699-516ddf399f27"/>
+  </producedTypes>
+  <name>Д_АвтоСотрудников</name>
+  <synonym>
+    <key>ru</key>
+    <value>Авто сотрудников</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Д_АвтоСотрудников.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Д_АвтоСотрудников.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Авто сотрудников</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
